@@ -28,8 +28,6 @@ My day-to-day toolkit spans **Python/Django, C#/C++ and TypeScript/React**, with
 - **Follow through.** Reproduce problems, test changes, document decisions and use feedback to set the next priorities.
 - **Build with the people involved.** Technical depth matters, but so do operational constraints, clear responsibilities and adoption.
 
-Outside software: FPV drone building, martial arts and a background in scouting.
-
 ## Contact
 
 [LinkedIn — Yegor Burda-Vinakur](https://www.linkedin.com/in/yegor-burda-vinakur) · [ReGlio](https://reglio.fr/)
