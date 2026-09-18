@@ -1,39 +1,35 @@
-# Yegor — Software engineer
+# Yegor
+### Software, data and AI — built for real-world use
 
-I build useful software across web, desktop and applied AI, with Python/Django at the core of my web work.
-My public projects explore research workflows, local-first dictation and browser-based simulation.
+I'm an ICAM-trained generalist engineer based in Lille, France. Three years in industrial software and digitalisation taught me to connect applications, data and interfaces with the physical systems and people behind them. Alongside that work, I build products of my own — from rental management to desktop dictation.
 
-## Selected work
+I enjoy taking an idea beyond the first demo: understanding the need, making technical choices, working with domain specialists and improving the result through actual use. My background also includes engineering design, continuous improvement and entrepreneurship in industrial 3D printing. I've been building drones since before I started building SaaS products.
 
-### [Research Desk](https://github.com/airope/research-desk)
-Turn a scientific question into a reading dossier and a source-linked draft report; review and reconcile publication metadata with traceable decisions.
+## My work
 
-**Python · Django · PostgreSQL** — experimental, human-reviewed software, not a scientific validation service.
-[Run locally](https://github.com/airope/research-desk#start-locally) · [Actual application captures](https://github.com/airope/research-desk#screenshots) · [Architecture](https://github.com/airope/research-desk/blob/main/docs/architecture.md)
+- **[ReGlio](https://reglio.fr/)** — my rental-management product, developed since 2024 and incubated at EuraTechnologies. It brings together property management, bank synchronisation, payment tracking and document workflows. I work across the software and product direction, refining an active beta with users and project partners.
+- **Industrial applications** — measurement-data analysis, visual diagnostic tools, computer vision and C#/C++ software maintenance. Working with process, quality and IT teams has shaped how I design interfaces and test changes in existing systems.
+- **Applied AI and agent orchestration** — reusable workflows for documentation and software evolution, with explicit objectives, evaluation and human review. I care about turning an experiment into a capability that others can keep using.
 
-### [Murmur Community](https://github.com/airope/murmur-community)
-Desktop dictation for Windows and macOS, with local speech recognition and optional bring-your-own-key cloud providers.
+My day-to-day toolkit spans **Python/Django, C#/C++ and TypeScript/React**, with relational data, APIs and applied AI connecting the pieces.
 
-**Electron · React · TypeScript** — an early preview; downloadable binaries are unsigned and not notarized.
-[Download & setup](https://github.com/airope/murmur-community#download) · [Actual application captures](https://github.com/airope/murmur-community#screenshots) · [Architecture](https://github.com/airope/murmur-community/blob/main/docs/ARCHITECTURE.md)
+## Public projects
 
-### [Neon Rocket](https://github.com/airope/neon-rocket)
-Browser car-soccer integrating the upstream RocketSim engine through a C++/WebAssembly bridge, with rule-based opponents and self-hosted authoritative multiplayer.
-
-**JavaScript · Three.js · Node.js · C++/WASM** — the hosted demo is solo-only; multiplayer needs a separate server.
-[Play the solo demo](https://airope.github.io/neon-rocket/) · [Actual gameplay capture](https://github.com/airope/neon-rocket/blob/main/docs/images/solo-gameplay.png) · [Architecture](https://github.com/airope/neon-rocket/blob/main/docs/ARCHITECTURE.md)
-
-Each project's source is MIT-licensed; dependencies, models and source data retain their own terms. See the repositories for verification scope and known limitations.
+| Project | What it does | Explore |
+| --- | --- | --- |
+| **[Research Desk](https://github.com/airope/research-desk)** | Scientific reading dossiers and source-linked draft reports, with publication-metadata review. | [Application captures](https://github.com/airope/research-desk#screenshots) · [Run locally](https://github.com/airope/research-desk#start-locally) |
+| **[Murmur Community](https://github.com/airope/murmur-community)** | Open-source desktop dictation for Windows and macOS, with local speech recognition and optional cloud providers. | [Application captures](https://github.com/airope/murmur-community#screenshots) · [Download](https://github.com/airope/murmur-community#download) |
+| **[Neon Rocket](https://github.com/airope/neon-rocket)** | Browser car-soccer with a C++/WebAssembly physics engine, local opponents and self-hosted multiplayer. | [Play solo](https://airope.github.io/neon-rocket/) · [Gameplay capture](https://github.com/airope/neon-rocket/blob/main/docs/images/solo-gameplay.png) |
 
 ## How I work
 
-- Make architecture and trade-offs inspectable through documentation and reproducible setup instructions.
-- Keep tests, regression cases and explicit verification limits alongside the code.
-- Treat data provenance, human review and private/public boundaries as design constraints.
-- Welcome reproducible bug reports and user feedback to guide maintenance; keep personal data and credentials out of reports.
+- **Start with the user's task.** A useful interface helps someone understand a situation and decide what to do, not just look at data.
+- **Choose automation deliberately.** Use AI where it helps; keep deterministic rules and human judgement where the consequences demand them.
+- **Follow through.** Reproduce problems, test changes, document decisions and use feedback to set the next priorities.
+- **Build with the people involved.** Technical depth matters, but so do operational constraints, clear responsibilities and adoption.
 
-## Elsewhere & contact
+Outside software: FPV drone building, martial arts and a background in scouting.
 
-[LinkedIn — Yegor Burda-Vinakur](https://fr.linkedin.com/in/yegor-burda-vinakur) · [ReGlio — public website](https://reglio.fr/)
+## Contact
 
-ReGlio is linked here as a product website, not an open-source repository. Any future case study will stay within approved public information.
+[LinkedIn — Yegor Burda-Vinakur](https://www.linkedin.com/in/yegor-burda-vinakur) · [ReGlio](https://reglio.fr/)
